@@ -107,3 +107,4 @@ git add .
 git commit -am "Remove ignored files"
 git pull origin master
  --allow-unrelated-histories
+git
